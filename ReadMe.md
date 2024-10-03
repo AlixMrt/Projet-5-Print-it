@@ -1,7 +1,6 @@
 # Project Summary
 
-In this project, I explored JavaScript by enhancing a static printing website with an interactive carousel. I started by exploring the fundamentals of JavaScript, a key programming language for creating dynamic web applications.
-I have used Visual Studio Code for coding and Git / GitHub for version control.
+In this project, I learned JavaScript by making a static printing company's website more dynamic by adding an interactive carousel. My main task was to update the existing HTML code and integrate a carousel using JavaScript, giving me a better understanding of how JavaScript, HTML, and CSS interact to create interactive web elements. I used Visual Studio Code to manage my code and Git and GitHub for version control and hosting.
 
 # Live Website
 

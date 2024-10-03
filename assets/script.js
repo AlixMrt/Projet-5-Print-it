@@ -46,7 +46,7 @@ const moveToPrevSlide = (e) => {
   }
   document.querySelector(
     "#banner-img"
-  ).src = `../assets/images/slideshow/${slides[position].image}`;
+  ).src = `./assets/images/slideshow/${slides[position].image}`;
   document.querySelector("#banner-text").innerHTML = slides[position].tagLine;
 
   dots[position].classList.add("dot_selected");
@@ -61,7 +61,7 @@ const moveToNextSlide = (e) => {
   }
   document.querySelector(
     "#banner-img"
-  ).src = `../assets/images/slideshow/${slides[position].image}`;
+  ).src = `./assets/images/slideshow/${slides[position].image}`;
   document.querySelector("#banner-text").innerHTML = slides[position].tagLine;
 
   dots[position].classList.add("dot_selected");

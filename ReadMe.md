@@ -4,4 +4,4 @@ In this project, I learned JavaScript by making a static printing company's webs
 
 # Live Website
 
-https://alixmrt.github.io/Projet-5-Print-it/
+https://alixmrt.github.io/Projet-5-Print-it

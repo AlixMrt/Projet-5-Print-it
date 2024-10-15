@@ -1,7 +1,10 @@
-# Project Summary
+# Print it
 
-In this project, I learned JavaScript by making a static printing company's website more dynamic by adding an interactive carousel. My main task was to update the existing HTML code and integrate a carousel using JavaScript, giving me a better understanding of how JavaScript, HTML, and CSS interact to create interactive web elements. I used Visual Studio Code to manage my code and Git and GitHub for version control and hosting.
-
-# Live Website
+## Description
+### English
+In this project, I learned to use JavaScript to make a printing company’s showcase website more dynamic by adding an interactive carousel. I learned how to manipulate the DOM and better anticipate the interactions between HTML, CSS, and JavaScript code.
+### French
+Dans ce projet, j’ai appris utilisé Javascript pour dynamiser le site vitrine d’une imprimerie en y ajoutant un carrousel interactif. J'ai appris à manipuler le DOM et à prévoir au mieux les interractions entre le code HTML CSS & Javascript.
+## Live Website
 
 https://alixmrt.github.io/Projet-5-Print-it
